@@ -1,0 +1,18 @@
+# 61 inch sky and star positions for 3x3 binning of:
+PG1336-018
+# three sky positions (usually 100x100 pixels each), free of stars:
+"[1100:1200,225:325]"
+"[250:350,650:750]"
+"[632:732,759:850]"
+# x,y positions (N < 13), in order of increasing y value:
+1    974.17   57.66
+2    194.65  445.83
+3    863.25  512.64
+4    800.99  655.71
+5    712.00  680.00
+6     60.44  758.03
+7   1294.34  926.71
+8    258.76 1004.32
+9    920.04 1095.28
+# which number corresponds to the sdB?
+5
